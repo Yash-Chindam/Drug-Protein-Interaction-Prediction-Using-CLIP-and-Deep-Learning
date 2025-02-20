@@ -5,6 +5,8 @@ This project aims to predict drug-protein interaction strength by leveraging dee
 
 ---
 Link to the models: https://huggingface.co/yashchindam/Drug-Protein-Interaction-Prediction-Using-CLIP-and-Deep-Learning
+
+
 link to the dataset: https://huggingface.co/datasets/yashchindam/Drug-Protein-Interaction-Prediction-Using-CLIP-and-Deep-Learning
 
 ## **Key Features**
