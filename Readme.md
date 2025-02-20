@@ -4,6 +4,8 @@
 This project aims to predict drug-protein interaction strength by leveraging deep learning models, specifically OpenAI's CLIP model. The interaction strength is quantified by the inhibitory constant (*Ki* value), which measures how effectively a drug binds to a target protein. The model takes molecular structure images of drugs (converted from SMILES representations) and protein structure images as input to predict the *Ki* value.
 
 ---
+Link to the models: https://huggingface.co/yashchindam/Drug-Protein-Interaction-Prediction-Using-CLIP-and-Deep-Learning
+link to the dataset: https://huggingface.co/datasets/yashchindam/Drug-Protein-Interaction-Prediction-Using-CLIP-and-Deep-Learning
 
 ## **Key Features**
 - Converts **SMILES** strings into **2D molecular structure images**
